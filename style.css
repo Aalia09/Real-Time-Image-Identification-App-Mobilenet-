@@ -40,5 +40,13 @@
     text-align: center;
   }
 
+  canvas
+  {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px purple;
+    margin-top: 160px;
+  }
+
 
  
